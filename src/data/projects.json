@@ -1,0 +1,26 @@
+[
+    {
+      "title": "ZenoFighters",
+      "imageSrc": "projects/Zenofighters.png",
+      "description": "2D fighter with hitstun and knockback based on health.",
+      "skills": ["Unity", "C#"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com/Nakyujin/Zenofighters"
+    },
+    {
+      "title": "Rubber bullets!",
+      "imageSrc": "projects/project.png",
+      "description": "A mobile rpg physics game inspired by the classic brickbreaker and monster strike! .",
+      "skills": ["Unity", "C#"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "My blog!",
+      "imageSrc": "projects/blog.png",
+      "description": "This is my devlog that I update daily!",
+      "skills": ["React", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com/Nakyujin.Blog"
+    }
+  ]
