@@ -4,23 +4,23 @@
       "imageSrc": "projects/Zenofighters.png",
       "description": "2D fighter with hitstun and knockback based on health.",
       "skills": ["Unity", "C#"],
-      "demo": "https://www.example.com",
+      "demo": "https://www.youtube.com/watch?v=Zo5fQ9sNBT8",
       "source": "https://www.github.com/Nakyujin/Zenofighters"
     },
     {
       "title": "Rubber bullets!",
       "imageSrc": "projects/project.png",
-      "description": "A mobile rpg physics game inspired by the classic brickbreaker and monster strike! .",
+      "description": "A mobile rpg physics game inspired by the classic brickbreaker and monster strike! (early development) .",
       "skills": ["Unity", "C#"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://www.github.com/Nakyujin/Gacha-brickbreaker"
     },
     {
-      "title": "My blog!",
+      "title": "My Developer Blog",
       "imageSrc": "projects/blog.png",
-      "description": "This is my devlog that I update daily!",
+      "description": "A full stack blog made with react, node and mysql, that I update regularly!",
       "skills": ["React", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com/Nakyujin.Blog"
+      "demo": "https://nakyujin-devlog.netlify.app/",
+      "source": "https://github.com/Nakyujin/Blog"
     }
   ]
